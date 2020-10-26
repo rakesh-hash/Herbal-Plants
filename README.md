@@ -1,9 +1,10 @@
-# Herbal-Plants
+# Herbal-Plants : ![herbal](https://user-images.githubusercontent.com/70839434/97202789-12c2d580-17da-11eb-9e12-54e4005ffcb2.jpeg)
+
 
 ##Team Memebers
-(1)Varanasi Rakesh-Regd.No:18PA1A05G7
-(2)Suvvada Tanuja-Regd.No:18PA1A05F3
-(3)Veeramalla Devi Satya Shankar-Regd.No:18PA1A05G9
+(1)V Rakesh-Regd.No:18PA1A05G7
+(2)S Tanuja-Regd.No:18PA1A05F3
+(3)V Devi Satya Shankar-Regd.No:18PA1A05G9
 
 ## Block Diagram for Reference
 
