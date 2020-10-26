@@ -1,19 +1,18 @@
 # Herbal-Plants
 
 ##Team Memebers
-(1)V Rakesh-Regd.No:18PA1A05G7
-(2)S Tanuja-Regd.No:18PA1A05F3
-(3)V Devi Satya Shankar-Regd.No:18PA1A05G9
+(1)Varanasi Rakesh-Regd.No:18PA1A05G7
+(2)Suvvada Tanuja-Regd.No:18PA1A05F3
+(3)Veeramalla Devi Satya Shankar-Regd.No:18PA1A05G9
 
-# Block Diagram for Reference : ![herbal](https://user-images.githubusercontent.com/70839434/97202118-36395080-17d9-11eb-9660-2063339ace71.png)
-
+## Block Diagram for Reference
 
 
 ## For youtube video click the link below
 https://youtu.be/6O6PKmwwdWI
 
 
-# How it works-An insight
+## How it works-An insight
 Our chatbot is to  know the medical uses of the plants and herbs around.
 Natural cure is always preferable.  
 Leafs or roots of a plant that you see daily in your garden may cure your health issue which you are suffering from a long. 
