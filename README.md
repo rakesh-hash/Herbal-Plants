@@ -12,11 +12,6 @@
 https://youtu.be/6O6PKmwwdWI
 
 
-##To open the code
-https://repl.it/@18PA1A05G7VARAN/Herbal-Plants
-
-https://Herbal-Plants.18pa1a05g7varan.repl.co
-
 # How it works-An insight
 Our chatbot is to  know the medical uses of the plants and herbs around.
 Natural cure is always preferable.  
