@@ -21,4 +21,11 @@ Leafs or roots of a plant that you see daily in your garden may cure your health
 So it is always better to know the medicinal uses of plants. 
 Here, in this chatbot we gonna provide the plants and herbs with their medicinal values. 
 Hope you find it useful.
+
+## To open the code
+https://repl.it/@18PA1A05G7VARAN/Herbal-Plants#index.html
+https://herbal-plants.18pa1a05g7varan.repl.co/
+
+
+
 Thank you.
